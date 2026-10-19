@@ -1,0 +1,6 @@
+{
+  "name": "InventoryCore - Laravel & PHP Inventory Manager",
+  "description": "Clean inventory management system with data entry form, show, edit, and delete features, complete with Laravel 11, PHP, and MySQL architecture and code generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
